@@ -1,0 +1,9 @@
+MIDlet-1: IndiceMassaCorporea,imc.png,br.com.leonardo.imc.IndiceMassaCorporea
+MIDlet-Icon: imc.png
+MIDlet-Jar-Size: 64058
+MIDlet-Jar-URL: imc_me.jar
+MIDlet-Name: Indice Massa Corporea
+MIDlet-Vendor: Leonardo Melo Santos
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.1
